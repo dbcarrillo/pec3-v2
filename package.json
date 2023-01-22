@@ -17,6 +17,7 @@
     "parcel": "^2.8.0"
   },
   "dependencies": {
+    "@justinribeiro/lite-youtube": "^1.4.0",
     "@parcel/transformer-sass": "^2.8.0",
     "browser-image-compression": "^2.0.0",
     "npm": "^9.1.2"
